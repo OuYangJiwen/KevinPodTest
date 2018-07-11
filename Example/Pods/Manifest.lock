@@ -1,0 +1,16 @@
+PODS:
+  - KevinPodTest (0.1.0)
+
+DEPENDENCIES:
+  - KevinPodTest (from `../`)
+
+EXTERNAL SOURCES:
+  KevinPodTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KevinPodTest: 3472ae8deeede390b9e88f9c218b28384f1b1439
+
+PODFILE CHECKSUM: f25ae9f7841ad441bdf2b1e087131a7a0a2e6ce1
+
+COCOAPODS: 1.5.3

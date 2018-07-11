@@ -1,0 +1,6 @@
+framework module KevinPodTest {
+  umbrella header "KevinPodTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

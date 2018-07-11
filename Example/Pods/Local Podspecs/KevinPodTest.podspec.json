@@ -1,0 +1,22 @@
+{
+  "name": "KevinPodTest",
+  "version": "0.1.0",
+  "summary": "A short description of KevinPodTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/OuYangJiwen/KevinPodTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "OuYangJiwen": "2122774806@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/OuYangJiwen/KevinPodTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KevinPodTest/Classes/**/*"
+}
