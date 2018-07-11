@@ -10,6 +10,8 @@
 #endif
 #endif
 
+#import "KVAVC.h"
+#import "KVBVC.h"
 
 FOUNDATION_EXPORT double KevinPodTestVersionNumber;
 FOUNDATION_EXPORT const unsigned char KevinPodTestVersionString[];
