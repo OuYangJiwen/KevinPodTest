@@ -66,7 +66,7 @@
 //    NSDictionary *params = @{@"testContent":@"Hi, I'm Jack"};
 //    RouterOptions *options = [RouterOptions optionsWithDefaultParams:params];
 //    [JKRouter open:@"KVBVC" options:options];
-         [JKRouter open:@"KVBVC"];
+//         [JKRouter open:@"KVBVC"];
 }
 
 - (void)didReceiveMemoryWarning {

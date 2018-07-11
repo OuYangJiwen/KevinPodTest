@@ -34,7 +34,7 @@
 
 - (void)action {
     
-    [JKRouter popWithStep:2];
+//    [JKRouter popWithStep:2];
     
 }
 - (void)didReceiveMemoryWarning {
